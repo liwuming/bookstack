@@ -35,6 +35,7 @@ module.exports = {
         editLinks: true,
         editLinkText: '在 GitHub 上编辑此页 ！'
     },
+	//theme: 'antdocs',
 	configureWebpack: () => {
     const NODE_ENV = 'production';
     if(NODE_ENV === 'production'){
