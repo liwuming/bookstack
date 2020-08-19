@@ -20,6 +20,7 @@ module.exports = {
 		  //md.use(require('markdown-it-container'))
 		}
   },
+	theme: 'antdocs',
     themeConfig: {
         nav: require('./nav.js'),
         sidebar: require('./sidebar.js'),

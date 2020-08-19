@@ -12,10 +12,23 @@
     "type": "git",
     "url": "git+https://github.com/liwuming/bookstack.git"
   },
-  "keywords": ["vuepress","mysql","php","node.js","python","css3","html5","es5","es6"],
+  "keywords": [
+    "vuepress",
+    "mysql",
+    "php",
+    "node.js",
+    "python",
+    "css3",
+    "html5",
+    "es5",
+    "es6"
+  ],
   "author": "liwuming",
   "license": "ISC",
   "devDependencies": {
     "vuepress": "^1.5.3"
+  },
+  "dependencies": {
+    "vuepress-theme-antdocs": "^1.1.1"
   }
 }
