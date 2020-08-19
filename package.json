@@ -1,0 +1,21 @@
+{
+  "name": "bookstack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "books:dev": "vuepress dev books",
+    "books:build": "vuepress build books",
+    "deploy": "bash deploy.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liwuming/bookstack.git"
+  },
+  "keywords": ["vuepress","mysql","php","node.js","python","css3","html5","es5","es6"],
+  "author": "liwuming",
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
