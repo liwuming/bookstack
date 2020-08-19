@@ -1,107 +1,19 @@
 module.exports = [
 		{
-			title:'安装与升级MySQL',
+			title:'html5第一课',
 			collapsable :true,
 			children:[
-				'/web/mysql/chap01/lesson1',
-				'/web/mysql/chap01/lesson2',
+				'/database/mysql/notes/lesson1',
+				'/database/mysql/notes/lesson2',
 			]
 		},
 		{
-			title:'MySQL语言结构',
+			title:'html5第二课',
 			collapsable :true,
 			children:[
-				'/web/mysql/chap02/lesson1',
-				'/web/mysql/chap02/lesson2',
+				'/database/mysql/notes/lesson02-1',
+				'/database/mysql/notes/lesson02-2',
 			]
-		},
-		{
-			title:'SQL语句',
-			collapsable :true,
-			children:[
-				'/web/mysql/chap03/lesson1',
-				'/web/mysql/chap03/lesson2',
-			]
-		},
-		{
-			title:'SQL语句',
-			collapsable :true,
-			children:[
-				'/web/mysql/chap04/lesson1',
-				'/web/mysql/chap04/lesson2',
-			]
-		},
-		{
-			title:'MySQL服务器管理',
-			collapsable :true,
-			children:[
-				'/web/mysql/chap05/lesson1',
-				'/web/mysql/chap05/lesson2',
-			]
-		},
-		{
-			title:'MySQL安全',
-			collapsable :true,
-			children:[
-				'/web/mysql/chap03/lesson1',
-				'/web/mysql/chap03/lesson2',
-			]
-		},
-		{
-			title:'MySQL备份与恢复',
-			collapsable :true,
-			children:[
-				'/web/mysql/chap03/lesson1',
-				'/web/mysql/chap03/lesson2',
-			]
-		},
-		{
-			title:'MySQL优化',
-			collapsable :true,
-			children:[
-				'/web/mysql/chap03/lesson1',
-				'/web/mysql/chap03/lesson2',
-			]
-		},
-		{
-			title:'MySQL语言结构',
-			collapsable :true,
-			children:[
-				'/web/mysql/chap03/lesson1',
-				'/web/mysql/chap03/lesson2',
-			]
-		},
-		{
-			title:'InnoDB存储引擎',
-			collapsable :true,
-			children:[
-				'/web/mysql/chap03/lesson1',
-				'/web/mysql/chap03/lesson2',
-			]
-		},
-		{
-			title:'InnoDB集群',
-			collapsable :true,
-			children:[
-				'/web/mysql/chap03/lesson1',
-				'/web/mysql/chap03/lesson2',
-			]
-		},
-		{
-			title:'Information_schema表',
-			collapsable :true,
-			children:[
-				'/web/mysql/chap03/lesson1',
-				'/web/mysql/chap03/lesson2',
-			]
-		},
-		{
-			title:'MySQL性能结构',
-			collapsable :true,
-			children:[
-				'/web/mysql/chap03/lesson1',
-				'/web/mysql/chap03/lesson2',
-			]
-		},
+		}
 	]
 
