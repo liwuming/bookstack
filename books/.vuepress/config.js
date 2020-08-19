@@ -20,7 +20,6 @@ module.exports = {
 		  //md.use(require('markdown-it-container'))
 		}
   },
-	
     themeConfig: {
         nav: require('./nav.js'),
         sidebar: require('./sidebar.js'),
