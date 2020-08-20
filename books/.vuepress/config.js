@@ -9,7 +9,7 @@ module.exports = {
         ['link', {rel: 'icon', href: '/logo.jpg'}]
     ],
     markdown: {
-        lineNumbers: true,
+        //lineNumbers: true,
 		// markdown-it-anchor 的选项
 		anchor: { permalink: false },
 		// markdown-it-toc 的选项
