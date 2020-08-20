@@ -22,7 +22,7 @@ CREATE TABLE `ecs_goods`  (
   `days` int(10) UNSIGNED NOT NULL DEFAULT 0 COMMENT '添加时间对应的天数',
   `addtime` int(10) UNSIGNED NOT NULL DEFAULT 0 COMMENT '添加时间',
   PRIMARY KEY (`id`) USING BTREE
-)
+)s
 
 ```
 
