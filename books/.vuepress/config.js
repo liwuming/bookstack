@@ -41,11 +41,11 @@ module.exports = {
     if(NODE_ENV === 'production'){
       return {
         output: {
-          publicPath: 'https://cdn.jsdelivr.net/gh/liwuming/bookstack/docs/'
+          //publicPath: 'https://cdn.jsdelivr.net/gh/liwuming/bookstack/docs/'
         },
         resolve: {
           alias: {
-            'public': path.resolve(__dirname, './public'),
+            //'public': path.resolve(__dirname, './public'),
           }
         }
       }
@@ -53,7 +53,7 @@ module.exports = {
       return {
         resolve: {
           alias: {
-            'public': path.resolve(__dirname, './public'),
+            //'public': path.resolve(__dirname, './public'),
           }
         }
       }
