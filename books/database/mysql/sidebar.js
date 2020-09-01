@@ -3,8 +3,8 @@ module.exports = [
 		title:'MySQL安装与升级',
 		collapsable :true,
 		children:[
-			'/database/mysql/notes/lesson1',
-			'/database/mysql/notes/lesson2',
+			'/database/mysql/chap01/lesson01',
+			'/database/mysql/chap01/lesson02',
 		]
 	},
 	{

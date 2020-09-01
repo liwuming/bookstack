@@ -1,12 +1,20 @@
-# 数据定义语句
+# MySQL简介
 
 
 
-::: warning 前提条件
-VuePress 需要 [Node.js](https://nodejs.org/en/) >= 8.6
-:::
+# 数据库的安装
 
 
 
-# 数据处理语句
+# MySQL服务的启动与停止
+
+
+
+# 
+
+
+
+
+# 忘记MySQL的root密码怎么办
+
 
